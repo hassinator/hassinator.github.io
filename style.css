@@ -9,3 +9,27 @@ html, body {
 body {
   font-family: 'Roboto', sans-serif;
   }
+
+.diploma {  
+  display: flex;
+  flex-wrap: wrap;
+  justify-context: center;
+  margin-top: 20px;
+}
+
+.diploma-item {
+  border: 5px solid #000;
+  margin: 20px;
+}
+
+.discription {
+  display: flex;
+  flex-wrap: wrap;
+  justify-context: center;
+  margin-top: 20px;
+}
+
+.discription-item {
+  border: 5px solid #000;
+  margin: 20px;
+}
