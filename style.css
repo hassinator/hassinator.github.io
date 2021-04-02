@@ -1,3 +1,13 @@
 body {
   font-family: 'Roboto', sans-serif;
+  font-weight: 250;
+}
+
+header {
+  padding: 20px 0;
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-start;
 }
